@@ -8,7 +8,8 @@
 
 ## Screenshot
 
-### Pertemuan 2
+### Pertemuan 3
 
-- ![Screenshot App (C)](https://github.com/adrianeka/Proyek_4/blob/main/SS_C.jpg?raw=true)
-- ![Screenshot App (F)](https://github.com/adrianeka/Proyek_4/blob/main/SS_F.jpg?raw=true)
+- ![Screenshot App (C)](https://github.com/adrianeka/Codelab/blob/main/SS1.jpg?raw=true)
+- ![Screenshot App (F)](https://github.com/adrianeka/Codelab/blob/main/SS2.jpg?raw=true)
+- ![Screenshot App (F)](https://github.com/adrianeka/Codelab/blob/main/SS3.jpg?raw=true)
